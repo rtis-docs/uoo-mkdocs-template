@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Index","text":"<p>A template for creating mkdocs material styled sites with the Otago branding</p> <p>see the source on Github</p>"}]}
