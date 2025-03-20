@@ -2,5 +2,5 @@ ignore:
   - "child/*"
 nav:
   - "Index":
-  	- index.md
+    - "index.md"
 

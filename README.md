@@ -16,3 +16,9 @@ To build and serve locally:
 ```bash
 mkdocs serve
 ```
+
+
+Refer to the documentation for more details:
+
+- [MkDocs](https://www.mkdocs.org)
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
