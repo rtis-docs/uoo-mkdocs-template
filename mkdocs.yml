@@ -53,4 +53,5 @@ markdown_extensions:
       alternate_style: true
 
 extra:
+  homepage: "https://www.otago.ac.nz"
   repo_url: "https://github.com/rtis-docs/uoo-mkdocs-template"
