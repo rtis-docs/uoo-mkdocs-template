@@ -17,6 +17,10 @@ To build and serve locally:
 mkdocs serve
 ```
 
+To deploy on Github:
+
+- Under the repository settings -> pages -> build and deployment -> source: `Deploy from Branch`, branch: `gh-pages` `/root` 
+
 
 Refer to the documentation for more details:
 
